@@ -1,0 +1,41 @@
+.odd{
+background-color: rgb(255, 100, 100);
+font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.f24px {
+    font-size: 24px;
+}
+
+#num2 {
+    color: rgb(00, 00, 255);
+    font-size: 36px;
+}
+#num4 {
+    font-weight: bold;
+    background-color: hsl(120, 100%, 60%);
+}
+
+
+
+.first, .second {
+    
+    font-family: Helvetica, "Times New Roman", sans-serif;
+    font-size: 28px;
+    /*
+    display: inline-block;
+    border: 2px solid gray;
+    padding: 0.2rem 0.2rem;
+    vertical-align: middle;
+    */
+}
+
+.first {
+    color: white;
+    background-color: black;
+}
+
+.second {
+    color: black;
+    background-color: yellow;
+}
